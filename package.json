@@ -1,0 +1,12 @@
+{
+    "version":  "1.0.0",
+    "name":  "hello-world-site",
+    "description":  "A simple Node.js website that displays Hello World",
+    "scripts":  {
+                    "start":  "node server.js"
+                },
+    "dependencies":  {
+                         "express":  "^4.19.2"
+                     },
+    "main":  "server.js"
+}
